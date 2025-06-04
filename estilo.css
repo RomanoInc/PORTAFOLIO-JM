@@ -6,13 +6,13 @@
     font-family: 'Segoe UI', sans-serif;
 }
 
-body {
+.body {
     background: #f0f2f5;
     color: #333;
     padding-top: 60px;
 }
 
-/* BARRA DE NAVEGACIÓN */
+/* BARRA DE NAVEGACION */
 .navbar {
     background: #2c3e50;
     padding: 1rem;
